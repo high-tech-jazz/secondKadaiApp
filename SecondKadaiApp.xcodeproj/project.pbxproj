@@ -13,6 +13,7 @@
 		842DEEEB2946CB070063EE48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842DEEE92946CB070063EE48 /* Main.storyboard */; };
 		842DEEED2946CB080063EE48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842DEEEC2946CB080063EE48 /* Assets.xcassets */; };
 		842DEEF02946CB080063EE48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842DEEEE2946CB080063EE48 /* LaunchScreen.storyboard */; };
+		842DEEF82946CEAB0063EE48 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842DEEF72946CEAB0063EE48 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		842DEEEC2946CB080063EE48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842DEEEF2946CB080063EE48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842DEEF12946CB080063EE48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		842DEEF72946CEAB0063EE48 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				842DEEE32946CB070063EE48 /* AppDelegate.swift */,
 				842DEEE52946CB070063EE48 /* SceneDelegate.swift */,
 				842DEEE72946CB070063EE48 /* ViewController.swift */,
+				842DEEF72946CEAB0063EE48 /* ResultViewController.swift */,
 				842DEEE92946CB070063EE48 /* Main.storyboard */,
 				842DEEEC2946CB080063EE48 /* Assets.xcassets */,
 				842DEEEE2946CB080063EE48 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				842DEEE82946CB070063EE48 /* ViewController.swift in Sources */,
+				842DEEF82946CEAB0063EE48 /* ResultViewController.swift in Sources */,
 				842DEEE42946CB070063EE48 /* AppDelegate.swift in Sources */,
 				842DEEE62946CB070063EE48 /* SceneDelegate.swift in Sources */,
 			);
